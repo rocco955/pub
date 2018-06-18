@@ -5,7 +5,7 @@ var birre = [{
     tipo: ['pilsener', 'bionda'],
     gradoAlcolico: '5%',
     prezzo: 2,
-    immagine: 'https://genkairoma.it/wp-content/uploads/2017/11/heineken-vetro.jpg-e1510072765220.png'
+    immagine: 'https://www.iperdrink.it/files/2013/07/heineken-heineken-cl66.png'
 
 }, {
     id: 2,
@@ -22,7 +22,7 @@ var birre = [{
     tipo: ['lager', 'bionda'],
     gradoAlcolico: '4.8%',
     prezzo: 2.5,
-    immagine: 'https://media.cosicomodo.it/sys-master/s3media/heb/hfd/8817865457694/IMMAGINO_IMMAGINO_EAN8004613310367_1_renditions_600x600'
+    immagine: 'https://www.iperdrink.it/files/2013/07/menabrea-menabrea-strong-cl33.png'
 }, {
     id: 4,
     nome: 'Duvel',
@@ -30,7 +30,7 @@ var birre = [{
     tipo: ['pilsener', 'bionda'],
     gradoAlcolico: '8.5%',
     prezzo: 4,
-    immagine: 'https://www.bevandepistilli.com/wp-content/uploads/2015/01/Duvel.png'
+    immagine: 'http://anesabirra.it/wp-content/uploads/2018/01/beer191.png'
 }, {
     id: 5,
     nome: 'Moretti la Rossa',
@@ -38,7 +38,7 @@ var birre = [{
     tipo: ['bock', 'rossa'],
     gradoAlcolico: '7.2%',
     prezzo: 2.5,
-    immagine: 'http://www.lanciotti.it/cli/img/p/2/0/4/8/2048-thickbox_default.jpg'
+    immagine: 'https://www.birramoretti.it/public/uploads/2015/02/siciliana1.png'
 }, {
     id: 6,
     nome: 'Guinness',
@@ -46,5 +46,5 @@ var birre = [{
     tipo: ['stout', 'scura'],
     gradoAlcolico: '4.2%',
     prezzo: 5,
-    immagine: 'http://www.brewbound.co.nz/content/images/thumbs/0001788_guinness-draught-6-pack-bottles_550.png'
+    immagine: 'http://anesabirra.it/wp-content/uploads/2017/12/beer145.png'
 }]
